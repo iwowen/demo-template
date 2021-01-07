@@ -4,8 +4,8 @@
 
 用于编写demo的模版，自带路由，方便管理和展示demo，依赖于[demobar](https://github.com/iwowen/demobar)
 
-demo地址 [https://iwowen.github.io/demobar/](https://iwowen.github.io/demobar/)
-demo地址2 [https://iwowen.github.io/demo-template/](https://iwowen.github.io/demo-template/)
+- demo地址 [https://iwowen.github.io/demobar/](https://iwowen.github.io/demobar/)
+- demo地址2 [https://iwowen.github.io/demo-template/](https://iwowen.github.io/demo-template/)
 
 ## 使用
 
