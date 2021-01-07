@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "npm --prefix ./demobar install",
+    "serve": "npm --prefix ./demobar run serve",
+    "build": "npm --prefix ./demobar run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "loadash": "^1.0.0",
+    "nprogress": "^0.2.0",
+    "open": "6.0.0",
+    "vue": "^2.6.12"
+  }
+}

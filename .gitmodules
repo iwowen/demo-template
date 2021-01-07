@@ -1,0 +1,3 @@
+[submodule "demobar"]
+	path = demobar
+	url = https://github.com/iwowen/demobar.git
