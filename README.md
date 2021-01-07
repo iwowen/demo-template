@@ -17,7 +17,8 @@ git clone https://github.com/iwowen/demo-template.git --recursive
 2. 然后初始化项目，运行
 
 ```shell
-npm init
+npm run init //不是 npm init
+npm run serve
 ```
 
 3. 在`src`目录下开发demo，需要创建目录结构`src/{分类}/{demo名称}`。
