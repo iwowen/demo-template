@@ -4,6 +4,8 @@
 
 用于编写demo的模版，自带路由，方便管理和展示demo，依赖于[demobar](https://github.com/iwowen/demobar)
 
+demo地址 [https://iwowen.github.io/demobar/](https://iwowen.github.io/demobar/)
+
 ## 使用
 
 1. 首先下载项目，或者`fork`中后克隆自己的项目。
