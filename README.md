@@ -11,7 +11,7 @@ demo地址 [https://iwowen.github.io/demobar/](https://iwowen.github.io/demobar/
 1. 首先下载项目，或者`fork`中后克隆自己的项目。
 
 ```shell
-git clone https://github.com/iwowen/demobar.git --recursive
+git clone https://github.com/iwowen/demo-template.git --recursive
 ```
 
 2. 然后初始化项目，运行
