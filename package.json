@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "init": "npm --prefix ./demobar install",
+    "init": "npm install && npm --prefix ./demobar install",
     "serve": "npm --prefix ./demobar run serve",
     "build": "npm --prefix ./demobar run build"
   },
