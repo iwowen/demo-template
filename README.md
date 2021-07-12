@@ -2,17 +2,17 @@
 
 ## 简介
 
-用于编写demo的模版，自带路由，方便管理和展示demo，依赖于[demobar](https://github.com/iwowen/demobar)
+用于编写demo的模版，自带路由，方便管理和展示demo，依赖于[demobar](https://github.com/wenonly/demobar)
 
-- demo地址 [https://iwowen.github.io/demobar/](https://iwowen.github.io/demobar/)
-- demo地址2 [https://iwowen.github.io/demo-template/](https://iwowen.github.io/demo-template/)
+- demo地址 [https://wenonly.github.io/demobar/](https://wenonly.github.io/demobar/)
+- demo地址2 [https://wenonly.github.io/demo-template/](https://wenonly.github.io/demo-template/)
 
 ## 使用
 
 1. 首先下载项目，或者`fork`中后克隆自己的项目。
 
 ```shell
-git clone https://github.com/iwowen/demo-template.git --recursive
+git clone https://github.com/wenonly/demo-template.git --recursive
 ```
 
 2. 然后初始化项目，运行
@@ -48,4 +48,4 @@ git pull
 
 ## 截图
 
-![demo](https://raw.githubusercontent.com/iwowen/demo-template/main/screenshot/20210107172645.jpg "demo主页")
+![demo](https://raw.githubusercontent.com/wenonly/demo-template/main/screenshot/20210107172645.jpg "demo主页")
